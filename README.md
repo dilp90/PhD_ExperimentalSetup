@@ -1,2 +1,2 @@
 # PhD_ExperimentalSetup
-General coding for my PhD experimental setup. 
+Scripts I use for my PhD experimental setup. 
