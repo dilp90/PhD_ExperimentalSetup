@@ -1,1 +1,1 @@
-General coding to use MuJoCo together with myoelectric control scheme. 
+Tests of differente geometries with MuJoCo on Python. 
