@@ -1,1 +1,1 @@
-Tests of differente geometries with MuJoCo on Python. 
+Tests of differents geometries with MuJoCo on Python. 
